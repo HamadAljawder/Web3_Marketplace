@@ -1,0 +1,13 @@
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.coffee-img {
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.IsActive {
+    display: none;
+}
